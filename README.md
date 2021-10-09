@@ -1,9 +1,30 @@
+# Instagram-API-clone_Appointy_Task
+## Appointy task | Instagram Backend API
+ 
+## Sagnik Chatterjee
+## 19BAI1153
+
+
 #### Golang + Instagram Private API
 <p align="center"><img width=100% src="https://raw.githubusercontent.com/ahmdrz/goinsta/v1/resources/goinsta-image.png"></p>
 
 > Unofficial Instagram API for Golang
 
 [![Build Status](https://travis-ci.org/ahmdrz/goinsta.svg?branch=master)](https://travis-ci.org/ahmdrz/goinsta) [![GoDoc](https://godoc.org/github.com/ahmdrz/goinsta?status.svg)](https://godoc.org/github.com/ahmdrz/goinsta) [![Go Report Card](https://goreportcard.com/badge/github.com/ahmdrz/goinsta)](https://goreportcard.com/report/github.com/ahmdrz/goinsta) [![Gitter chat](https://badges.gitter.im/goinsta/community.png)](https://gitter.im/goinsta/community)
+
+# instagram-rest-api
+
+REST API with all basic features real Instagram has.
+
+
+## Features:
+
+-   registering and logging to user account
+-   posting photos
+-   commenting and liking photos
+-   following system
+-   all CRUD operations on posts, comments, follows and likes with relevant permissions
+
 
 ### Features
 
@@ -43,53 +64,5 @@ func main() {
 }
 ```
 
-### Projects using `goinsta`
 
-- [go-instabot](https://github.com/tducasse/go-instabot)
-- [nick_bot](https://github.com/icholy/nick_bot)
-- [instagraph](https://github.com/ahmdrz/instagraph)
-- [icrawler](https://github.com/themester/icrawler)
-- [ermes](https://github.com/borteo/ermes)
-- [instafeed](https://github.com/falzm/instafeed)
-- [goinstadownload](https://github.com/alejoloaiza/goinstadownload)
-- [InstagramStoriesDownloader](https://github.com/DiSiqueira/InstagramStoriesDownloader)
-- [gridcube-challenge](https://github.com/rodrwan/gridcube-challenge)
-- [nyaakitties](https://github.com/gracechang/nyaakitties)
-- [InstaFollower](https://github.com/Unanoc/InstaFollower)
-- [follow-sync](https://github.com/kirsle/follow-sync)
-- [Game DB](https://github.com/gamedb/gamedb)
-- ...
-
-### Legal
-
-This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Instagram or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use at your own risk.
-
-### Versioning
-
-Goinsta used gopkg.in as versioning control. Stable new API is the version v2.0. You can get it using:
-
-```bash
-$ go get -u -v gopkg.in/ahmdrz/goinsta.v2
-```
-
-Or 
-
-If you have `GO111MODULE=on`
-
-```
-$ go get -u github.com/ahmdrz/goinsta/v2
-```
-
-### Donate
-
-**Ahmdrz**
-
-![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin: `1KjcfrBPJtM4MfBSGTqpC6RcoEW1KBh15X`
-
-**Mester**
-
-![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin: `37aogDJYBFkdSJTWG7TgcpgNweGHPCy1Ks`
-
-
-[![Analytics](https://ga-beacon.appspot.com/UA-107698067-1/readme-page)](https://github.com/igrigorik/ga-beacon)
 
